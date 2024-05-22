@@ -31,5 +31,5 @@ if st.button("Predict type of iris"):
     st.text('')
     st.text('')
     st.markdown(
-        'Create by Raunak @2024'
+        'Created by Raunak @2024'
     )
